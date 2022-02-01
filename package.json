@@ -1,0 +1,18 @@
+{
+  "name": "backend_assignment",
+  "version": "1.0.0",
+  "description": "This is an assignment to create multiple api's as per given requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sampath Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.9",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
